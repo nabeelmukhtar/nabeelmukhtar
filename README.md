@@ -44,12 +44,4 @@
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nabeelmukhtar&show_icons=true&locale=en&layout=compact" alt="nabeelmukhtar top langs" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nabeelmukhtar&show_icons=true&locale=en" alt="nabeelmukhtar stats" />
-</p>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nabeelmukhtar&" alt="nabeelmukhtar streak" />
-</p>
+[![Nabeel's GitHub stats](https://github-stats-extended.vercel.app/api?username=nabeelmukhtar)](https://github.com/stats-organization/github-stats-extended)
