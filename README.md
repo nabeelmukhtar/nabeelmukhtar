@@ -45,3 +45,4 @@
 ### 📊 GitHub Stats
 
 [![Nabeel's GitHub stats](https://github-stats-extended.vercel.app/api?username=nabeelmukhtar)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=nabeelmukhtar&langs_count=4&theme=light_github)](https://github-stats-extended.vercel.app/api/top-langs?username=nabeelmukhtar&langs_count=4&theme=light_github)
