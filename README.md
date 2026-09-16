@@ -43,6 +43,21 @@
 ---
 
 ### 📊 GitHub Stats
-
-[![Nabeel's GitHub stats](https://github-stats-extended.vercel.app/api?username=nabeelmukhtar)](https://github.com/stats-organization/github-stats-extended)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=nabeelmukhtar&langs_count=4&theme=light_github)](https://github-stats-extended.vercel.app/api/top-langs?username=nabeelmukhtar&langs_count=4&theme=light_github)
+<a href="https://github-stats-extended.vercel.app/api?username=nabeelmukhtar&rank_icon=percentile">
+  <picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api?username=nabeelmukhtar&rank_icon=percentile&theme=dark_github"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img height="200" align="center" src="https://github-stats-extended.vercel.app/api?username=nabeelmukhtar&rank_icon=percentile&theme=light_github" />
+  </picture>
+</a>
+<a href="https://github-stats-extended.vercel.app/api/top-langs?username=nabeelmukhtar&layout=compact&langs_count=8&card_width=400">
+  <picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api/top-langs?username=nabeelmukhtar&layout=compact&langs_count=8&card_width=400&theme=dark_github"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img height="200" align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=nabeelmukhtar&layout=compact&langs_count=8&card_width=400&theme=light_github" />
+  </picture>
+</a>
