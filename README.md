@@ -43,21 +43,21 @@
 ---
 
 ### 📊 GitHub Stats
-<a href="https://github-stats-extended.vercel.app/api?username=nabeelmukhtar&rank_icon=percentile">
+<a href="https://github-stats-extended.vercel.app/api?username=nabeelmukhtar&rank_icon=percentile&card_width=320">
   <picture>
     <source
-      srcset="https://github-stats-extended.vercel.app/api?username=nabeelmukhtar&rank_icon=percentile&theme=dark_github"
+      srcset="https://github-stats-extended.vercel.app/api?username=nabeelmukhtar&rank_icon=percentile&card_width=320&theme=dark_github"
       media="(prefers-color-scheme: dark)"
     />
-    <img height="200" align="center" src="https://github-stats-extended.vercel.app/api?username=nabeelmukhtar&rank_icon=percentile&theme=light_github" />
+    <img height="200" align="center" src="https://github-stats-extended.vercel.app/api?username=nabeelmukhtar&rank_icon=percentile&card_width=320&theme=light_github" />
   </picture>
 </a>
-<a href="https://github-stats-extended.vercel.app/api/top-langs?username=nabeelmukhtar&layout=compact&langs_count=8&card_width=400">
+<a href="https://github-stats-extended.vercel.app/api/top-langs?username=nabeelmukhtar&layout=compact&langs_count=8&card_width=320">
   <picture>
     <source
-      srcset="https://github-stats-extended.vercel.app/api/top-langs?username=nabeelmukhtar&layout=compact&langs_count=8&card_width=400&theme=dark_github"
+      srcset="https://github-stats-extended.vercel.app/api/top-langs?username=nabeelmukhtar&layout=compact&langs_count=8&card_width=320&theme=dark_github"
       media="(prefers-color-scheme: dark)"
     />
-    <img height="200" align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=nabeelmukhtar&layout=compact&langs_count=8&card_width=400&theme=light_github" />
+    <img height="200" align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=nabeelmukhtar&layout=compact&langs_count=8&card_width=320&theme=light_github" />
   </picture>
 </a>
